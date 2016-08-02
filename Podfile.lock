@@ -1,0 +1,10 @@
+PODS:
+  - SSKeychain (1.4.1)
+
+DEPENDENCIES:
+  - SSKeychain
+
+SPEC CHECKSUMS:
+  SSKeychain: 55cc80f66f5c73da827e3077f02e43528897db41
+
+COCOAPODS: 0.39.0
